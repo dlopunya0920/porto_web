@@ -1,0 +1,56 @@
+.banner {
+  background-image: url("../assets/banner.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.hero {
+  background-color: black;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.announcement {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+@media (max-width: 767px) {
+  .announcement {
+    background-color: black;
+    background-image: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .announcement {
+    background-color: transparent;
+    background-image: url("../assets/RESERVA.png");
+  }
+}
+
+.dive {
+  background-color: #09090b;
+}
+
+.skills {
+  background-color: #09090b;
+}
+
+.ask {
+  background-image: url("../assets/curvedstripe.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.projects {
+  background-color: black;
+}
+
+.collaborate {
+  background-color: #000000;
+}
