@@ -45,7 +45,7 @@ export default function Hero() {
             unicons={<Unicons.UilTwitterAlt size="22" />}
           />
         </div>
-        <a href="https://drive.google.com/file/d/18cn9dSq8NUvZd2aNL4aKf_AS42aStDlC/view?usp=sharing" className="mt-8 text-red-400 font-bold transition-all hover:text-red-500 text-lg lg:text-2xl leading-relaxed lg:leading-relaxed tracking-tight">
+        <a href="https://drive.google.com/file/d/1hyHgYqvvsGj2cHN4lLLTdDJ-BX9f7Bgc/view?usp=sharing" className="mt-8 text-red-400 font-bold transition-all hover:text-red-500 text-lg lg:text-2xl leading-relaxed lg:leading-relaxed tracking-tight">
         Download CV
         </a>
       </div>
