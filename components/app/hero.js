@@ -33,7 +33,7 @@ export default function Hero() {
             unicons={<Unicons.UilInstagram size="22" />}
           />
           <Link
-            href={"jojogorakso@gmail.com"}
+            href={"mailto:1112020@mhs.dinus.ac.id"}
             unicons={<Unicons.UilEnvelope size="22" />}
           />
           <Link

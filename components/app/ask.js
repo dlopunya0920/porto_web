@@ -56,7 +56,7 @@ export default function Ask() {
             "Hello! I'm deeply passionate about the creative process of shaping innovative AI-driven interfaces. Whether it's the seamless integration of advanced algorithms or the dynamic energy of an intelligent application, I thrive on making AI experiences not only functional but also delightful. "
           }
           contact={
-            "mailto:jojogorakso@gmail.com?subject=I'm [...]. Let's dive into the fascinating realm of artificial intelligence"
+            "mailto:111202013093@mhs.dinus.ac.id?subject=I'm [...]. Let's dive into the fascinating realm of artificial intelligence"
           }
           subject={"AI"}
           date={"Tuesday, October 10, 2023"}
